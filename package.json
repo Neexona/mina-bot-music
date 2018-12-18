@@ -5,7 +5,7 @@
   "main": "mina.js",
   "dependencies": {
     "discord.js": "^11.1.0",
-    "ffmpeg-binaries": "^4.0.0",
+    "ffmpeg-binaries": "^3.2.2-3",
     "opusscript": "0.0.3",
     "simple-youtube-api": "^3.0.0",
     "ytdl-core": "^0.16.0"
