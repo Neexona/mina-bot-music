@@ -4,18 +4,11 @@
   "description": "Un bot personnel crée en JS.",
   "main": "mina.js",
   "dependencies": {
-    "discord.js": "^11.2.1",
+    "discord.js": "^11.1.0",
     "opusscript": "0.0.3",
-    "prompt": "^1.0.0",
-    "request": "^2.83.0",
-    "request-promise": "^4.2.2",
     "simple-youtube-api": "^3.0.0",
-    "strip-indent": "^2.0.0",
-    "util": "^0.10.3",
-    "youtube-search": "^1.0.10",
-    "ytdl-core": "^0.16.0",
+    "ytdl-core": "^0.16.0"
     "ffmpeg-binaries": "^4.0.0",
-    "os": "^0.1.1"
   },
   "devDependencies": {},
   "scripts": {
