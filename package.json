@@ -14,7 +14,7 @@
     "util": "^0.10.3",
     "youtube-search": "^1.0.10",
     "ytdl-core": "^0.16.0",
-    "ffmpeg-binaries": "^3.2.2-3",
+    "ffmpeg-binaries": "^4.0.0",
     "os": "^0.1.1"
   },
   "devDependencies": {},
