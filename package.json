@@ -1,8 +1,8 @@
 {
-  "name": "yumeko",
+  "name": "mina",
   "version": "0.1.0",
   "description": "A simple discord bot",
-  "main": "MusicBot.js",
+  "main": "mina.js",
   "scripts": {
     "test": ""
   },
