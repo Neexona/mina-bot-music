@@ -5,7 +5,7 @@
   "main": "mina.js",
   "dependencies": {
     "discord.js": "^11.2.1",
-    "node-opus": "^0.2.7",
+    "opusscript": "0.0.3",
     "prompt": "^1.0.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
