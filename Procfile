@@ -1,1 +1,1 @@
-worker: node mina.js
+worker: node MusicBot.js
